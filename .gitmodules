@@ -1,0 +1,3 @@
+[submodule "c_basic"]
+	path = c_basic
+	url = https://github.com/gfkauer/c_basic.git
